@@ -1,0 +1,13 @@
+{
+    "ticket_type_algorithm": "Linear SVM",
+    "ticket_priority_algorithm": "Logistic Regression",
+    "text_columns": [
+        "Ticket Subject",
+        "Ticket Description"
+    ],
+    "target_columns": [
+        "Ticket Type",
+        "Ticket Priority"
+    ],
+    "random_state": 42
+}
